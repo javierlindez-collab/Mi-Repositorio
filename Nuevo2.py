@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 """
 Este es un nuevo fichero .py
 Primero lo he creado en el pc con editor de texto y extensión .py
@@ -14,5 +13,4 @@ print("Hola")
 Este es un nuevo fichero .py
 """
 
-print("Hola")
->>>>>>> 1e5cc0509eb3d0199aaeafc64900702ca9529184
+print("Hola Hola en GitHub")
