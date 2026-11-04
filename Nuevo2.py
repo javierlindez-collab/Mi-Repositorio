@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 """
 Este es un nuevo fichero .py
 Primero lo he creado en el pc con editor de texto y extensión .py
@@ -8,3 +9,10 @@ Ahora lo estoy modificando con Visual Studio Code
 """
 
 print("Hola")
+=======
+"""
+Este es un nuevo fichero .py
+"""
+
+print("Hola")
+>>>>>>> 1e5cc0509eb3d0199aaeafc64900702ca9529184
